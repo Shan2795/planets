@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 cold and dry but everything is my favorite color
 <<<<<<< HEAD
 there are two moons and 
 =======
+=======
+>>>>>>> 45409198685b43b0513f674fddebfbe4f7177ee0
 mars has multiple moons
 >>>>>>> 0821146475028058025e6ffd38e22ba6fa570462
